@@ -88,7 +88,7 @@
   tab      q     w     f     p     b     [     j     l     u     y     '     \
   lmet     a     r     s     t     g     ]     m     n     e     i     o     ;     ret
   lsft  z     x     c     d     v     z     /     k     h     ,     .     rsft
-  lctl        lalt  @ext              lsft              spc   @sym1 @sym1 _
+  lctl        lalt  @ext              spc              @sym1   @sym1 @sym1 _
 )
 
 (deflayer qwerty-sp
